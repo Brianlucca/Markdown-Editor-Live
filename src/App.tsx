@@ -5,7 +5,6 @@ import Toolbar from './components/Toolbar';
 import StatusBar from './components/StatusBar';
 import jsPDF from 'jspdf';
 import html2canvas from 'html2canvas';
-import { Github, GithubIcon } from 'lucide-react';
 
 const initialMarkdown = `# Bem-vindo ao Editor Markdown Profissional!
 
